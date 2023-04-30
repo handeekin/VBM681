@@ -1,4 +1,4 @@
-
+VBM 681 Dersi arasınav projesi için kullandığım tutorialın orijinal açıklamasıdır.
 ## UW-Madison LIS 501: Introduction to Text Mining (Fall 2021)
 ## A Simple Tutorial of Lucene's Indexing and Search Systems
 
